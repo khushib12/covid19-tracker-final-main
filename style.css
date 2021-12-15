@@ -1,6 +1,7 @@
 .features_cards {
   display: flex;
-  grid-gap: -5rem;
+  grid-gap: 7%;
+  margin-left: 8%;
 }
 
 .features_img {
